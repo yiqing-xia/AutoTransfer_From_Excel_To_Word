@@ -1,6 +1,6 @@
 # AutoTransfer from excel to word, specifically for multiple poster abstracts.
 
-Want an arranged abstract-formatted word file but stored all information in excel file? Don't worry! This script iteratively auto-transfers the poster information that stored in Excel files into an abstract-formatted Word file, with customisable font sizes, styles, and layouts.
+Want an arranged abstract-formatted word file but stored all the information in an excel file? Don't worry! This script iteratively auto-transfers the poster information that stored in Excel files into an abstract-formatted Word file, with customisable font sizes, styles, and layouts.
 
 An example illustration as follows:
 
